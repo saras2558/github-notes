@@ -1,5 +1,5 @@
 # github-notes
-Git:
-Github:
+<b> Git: </b>
+Github: </b>
 Repo:
 Commit: 
